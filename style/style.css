@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+*{
+    font-family: "Open Sans", sans-serif;
+}
+.box-hover{
+    box-shadow: rgba(0, 0, 0, 0.082) 0px 0px 10px !important;
+}
+.box-hover:hover{
+    box-shadow: rgba(0, 0, 0, 0.212) 0px 0px 10px !important;
+}
+.nav-bg{
+    background-color: #E6F6FE;
+}
+.banner{
+    margin-top: 90px;
+}
+.banner-xl{
+    margin-top: 30px;
+}
+.services-bg {
+    background-color: #E6F6FE;
+}
+.input-field:focus{
+    box-shadow: none;
+}
+.section-bg{
+    background-color: #E6F6FE;
+}
+hr{
+    height: 3px;
+    background-color: black;
+}
+.social-link-icon:hover{
+    box-shadow: rgb(0, 0, 0) 0px 0px 10px !important;
+}
